@@ -11,23 +11,18 @@ The Codingame Challenge 2022 was a global coding competition where participants 
 - **Country Rank:** 12
 
 ## Screenshots
-![Challenge Screenshot 1](images/rank.png)
+<img src="images/rank.png" width="70%" height="500" />
 
 ## Videos
-[Link to Video 1](video1.mp4) - [Brief description of the video]
-
-[Link to Video 2](video2.mp4) - [Brief description of the video]
+https://www.codingame.com/replay/745495539
 
 ## Solutions
 You can find my solutions to the challenges in this repository. Feel free to explore, learn, and provide feedback!
 
-## How to Run
-[Provide instructions on how to run your solutions, if applicable]
-
 ## Contact
 If you have any questions or want to discuss coding challenges, feel free to reach out to me:
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: mohamedlim210@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abdelouahed-limouri-676397276/
 
 ## Acknowledgements
 I want to express my gratitude to Codingame for organizing this fantastic challenge. It was a rewarding experience, and I look forward to participating in future events!
