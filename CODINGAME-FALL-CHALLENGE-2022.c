@@ -1093,7 +1093,7 @@ void ft_attacko(t_map **map, int width, int height)
                                         /*#*/  
                                         /*#*/  
                                         /*#*/   
-                                        /*#*/  
+                                        /*#*/  //    some code is missed here :)
                                         /*#*/   
                                         /*#*/   
                                         /*#*/   
