@@ -1,7 +1,5 @@
 # Codingame Challenge 2022 - Rank 420 Worldwide 🚀
 
-![Codingame Logo](codingame_logo.png)
-
 ## Overview
 I participated in the Codingame Challenge 2022 and achieved a global ranking of 420! It was an exciting experience and I'm thrilled to share my journey with you.
 
@@ -10,12 +8,10 @@ The Codingame Challenge 2022 was a global coding competition where participants 
 
 ## My Rank
 - **Global Rank:** 420
-- **Country Rank:** [Your Country Rank]
-- **Points:** [Your Points]
+- **Country Rank:** 12
 
 ## Screenshots
-![Challenge Screenshot 1](./images/Screen Shot 2024-05-13 at 5.20.04 PM.png)
-![Challenge Screenshot 2](screenshots/screenshot2.png)
+![Challenge Screenshot 1](images/Screen Shot 2024-05-13 at 5.20.04 PM.png)
 
 ## Videos
 [Link to Video 1](video1.mp4) - [Brief description of the video]
