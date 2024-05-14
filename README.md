@@ -11,8 +11,8 @@ The Codingame Challenge 2022 was a global coding competition where participants 
 - **Country Rank:** 12
 
 ## Screenshots
-<img src="images/rank.png" width="70%" height="500" />
-<img src="images/match.gif" width="70%" height="500" />
+<img src="images/rank.png" width="100%" height="500" />
+<img src="images/match.gif" width="100%" height="500" />
 
 ## Videos
 https://www.codingame.com/replay/745495539
